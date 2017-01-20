@@ -1,3 +1,9 @@
 wp
 .*.swo
 venv/
+
+index.html
+
+*.html
+
+index.html
